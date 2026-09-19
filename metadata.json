@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Studio",
+  "description": "Custom text-to-speech studio featuring Gemini 3.1 Flash TTS, multilingual and Tamil native voices with deep bass profiles, child personas, dialect and tone controls, offline synthesis, and high-quality MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
